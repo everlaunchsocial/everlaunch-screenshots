@@ -22,8 +22,8 @@ Set-Location $repo
 
 # Only files finished writing (untouched for 10+ seconds)
 $cutoff = (Get-Date).AddSeconds(-10)
-$toolShots = Get-ChildItem -Path $downloads -Filter 'everlaunch-*.png' -File |
-             Where-Object { $_.LastWriteTime -lt $cutoff }
+$toolShots = Get-ChildItem -Path $downloads -File |
+             Where-Object { $_.Name -like 'everlaunch-*' -and $_.Extension -in '.png', '.jpg' -and $_.LastWriteTime -lt $cutoff }
 $dropShots = Get-ChildItem -Path $walkshots -Include '*.png','*.jpg','*.jpeg' -File -Recurse -Depth 0 |
              Where-Object { $_.LastWriteTime -lt $cutoff }
 
