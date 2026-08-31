@@ -1,6 +1,6 @@
 ﻿# Latest screenshots
 
-Rebuilt automatically whenever new screenshots are filed. Newest day: **2026-08-31** - 60 image(s).
+Rebuilt automatically whenever new screenshots are filed. Newest day: **2026-08-31** - 61 image(s).
 
 Every link below is a direct file. Fetch one to read it; no login, no folder listing needed.
 
@@ -70,6 +70,7 @@ Every link below is a direct file. Fetch one to read it; no login, no folder lis
 - [everlaunch-phone-terms-073152.jpg](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-08-31/everlaunch-phone-terms-073152.jpg)
 - [everlaunch-samsung-s24-ultra-full-1-070810.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-08-31/everlaunch-samsung-s24-ultra-full-1-070810.png)
 - [everlaunch-samsung-s24-ultra-full-1-075128.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-08-31/everlaunch-samsung-s24-ultra-full-1-075128.png)
+- [everlaunch-samsung-s24-ultra-full-2-075737.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-08-31/everlaunch-samsung-s24-ultra-full-2-075737.png)
 
 ## Earlier days
 
