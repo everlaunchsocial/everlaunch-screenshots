@@ -58,6 +58,44 @@ foreach ($f in $dropShots) {
 
 if ($filed -eq 0) { exit 0 }
 
+# Rebuild LATEST.md — the one fixed address an outside AI (the Router) can be
+# pointed at. Its models reach GitHub and nothing else, and cannot list a
+# folder, so without a written index they have no way to learn what is here.
+$raw = 'https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main'
+$newest = Get-ChildItem -Path $repo -Directory |
+          Where-Object { $_.Name -match '^\d{4}-\d{2}-\d{2}$' } |
+          Sort-Object Name -Descending | Select-Object -First 1
+if ($newest) {
+    $shots = Get-ChildItem $newest.FullName -File |
+             Where-Object { $_.Extension -in '.png', '.jpg' } | Sort-Object Name
+    $reports = Get-ChildItem $newest.FullName -File -Filter 'crawl-report*.md' | Sort-Object Name
+    $out = @()
+    $out += '# Latest screenshots'
+    $out += ''
+    $out += "Rebuilt automatically whenever new screenshots are filed. Newest day: **$($newest.Name)** - $($shots.Count) image(s)."
+    $out += ''
+    $out += 'Every link below is a direct file. Fetch one to read it; no login, no folder listing needed.'
+    $out += ''
+    if ($reports) {
+        $out += '## Crawl reports (plain text - start here)'
+        $out += ''
+        foreach ($r in $reports) { $out += "- [$($r.Name)]($raw/$($newest.Name)/$($r.Name))" }
+        $out += ''
+    }
+    $out += '## Images'
+    $out += ''
+    foreach ($s in $shots) { $out += "- [$($s.Name)]($raw/$($newest.Name)/$($s.Name))" }
+    $out += ''
+    $out += '## Earlier days'
+    $out += ''
+    $days = Get-ChildItem -Path $repo -Directory |
+            Where-Object { $_.Name -match '^\d{4}-\d{2}-\d{2}$' } |
+            Sort-Object Name -Descending | Select-Object -First 14
+    foreach ($d in $days) { $out += "- $($d.Name)" }
+    $out += ''
+    Set-Content -Path (Join-Path $repo 'LATEST.md') -Value ($out -join "`n") -Encoding utf8
+}
+
 git add -A
 git commit -m ("screenshots: {0} new ({1})" -f $filed, (Get-Date -Format 'yyyy-MM-dd HH:mm')) --quiet
 git push --quiet origin main
