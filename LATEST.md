@@ -1,6 +1,6 @@
 ﻿# Latest screenshots
 
-Rebuilt automatically whenever new screenshots are filed. Newest day: **2026-09-01** - 12 image(s).
+Rebuilt automatically whenever new screenshots are filed. Newest day: **2026-09-01** - 13 image(s).
 
 Every link below is a direct file. Fetch one to read it; no login, no folder listing needed.
 
@@ -15,6 +15,7 @@ Every link below is a direct file. Fetch one to read it; no login, no folder lis
 - [everlaunch-pixel-8-pro-3-165149.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-01/everlaunch-pixel-8-pro-3-165149.png)
 - [everlaunch-pixel-8-pro-3-170452.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-01/everlaunch-pixel-8-pro-3-170452.png)
 - [everlaunch-pixel-8-pro-4-165153.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-01/everlaunch-pixel-8-pro-4-165153.png)
+- [everlaunch-pixel-8-pro-4-170610.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-01/everlaunch-pixel-8-pro-4-170610.png)
 - [everlaunch-pixel-8-pro-5-165159.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-01/everlaunch-pixel-8-pro-5-165159.png)
 - [everlaunch-pixel-8-pro-6-165322.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-01/everlaunch-pixel-8-pro-6-165322.png)
 - [everlaunch-pixel-8-pro-7-165324.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-01/everlaunch-pixel-8-pro-7-165324.png)
