@@ -1,6 +1,6 @@
 ﻿# Latest screenshots
 
-Rebuilt automatically whenever new screenshots are filed. Newest day: **2026-09-08** - 20 image(s).
+Rebuilt automatically whenever new screenshots are filed. Newest day: **2026-09-08** - 22 image(s).
 
 Every link below is a direct file. Fetch one to read it; no login, no folder listing needed.
 
@@ -26,6 +26,8 @@ Every link below is a direct file. Fetch one to read it; no login, no folder lis
 - [everlaunch-desktop-full-17-160038.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-full-17-160038.png)
 - [everlaunch-desktop-full-19-160743.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-full-19-160743.png)
 - [everlaunch-desktop-full-20-161852.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-full-20-161852.png)
+- [everlaunch-samsung-s24-ultra-1-164839.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-samsung-s24-ultra-1-164839.png)
+- [everlaunch-samsung-s24-ultra-2-164846.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-samsung-s24-ultra-2-164846.png)
 
 ## Earlier days
 
