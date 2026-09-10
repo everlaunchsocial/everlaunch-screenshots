@@ -1,53 +1,19 @@
 ﻿# Latest screenshots
 
-Rebuilt automatically whenever new screenshots are filed. Newest day: **2026-09-08** - 39 image(s).
+Rebuilt automatically whenever new screenshots are filed. Newest day: **2026-09-10** - 3 image(s).
 
 Every link below is a direct file. Fetch one to read it; no login, no folder listing needed.
 
 ## Images
 
-- [everlaunch-desktop-10-155738.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-10-155738.png)
-- [everlaunch-desktop-11-155743.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-11-155743.png)
-- [everlaunch-desktop-1-155653.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-1-155653.png)
-- [everlaunch-desktop-12-155748.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-12-155748.png)
-- [everlaunch-desktop-13-155752.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-13-155752.png)
-- [everlaunch-desktop-14-155753.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-14-155753.png)
-- [everlaunch-desktop-15-155758.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-15-155758.png)
-- [everlaunch-desktop-18-160645.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-18-160645.png)
-- [everlaunch-desktop-2-155658.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-2-155658.png)
-- [everlaunch-desktop-3-155703.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-3-155703.png)
-- [everlaunch-desktop-4-155708.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-4-155708.png)
-- [everlaunch-desktop-5-155713.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-5-155713.png)
-- [everlaunch-desktop-6-155718.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-6-155718.png)
-- [everlaunch-desktop-7-155723.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-7-155723.png)
-- [everlaunch-desktop-8-155728.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-8-155728.png)
-- [everlaunch-desktop-9-155733.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-9-155733.png)
-- [everlaunch-desktop-full-16-155856.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-full-16-155856.png)
-- [everlaunch-desktop-full-17-160038.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-full-17-160038.png)
-- [everlaunch-desktop-full-19-160743.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-full-19-160743.png)
-- [everlaunch-desktop-full-20-161852.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-full-20-161852.png)
-- [everlaunch-desktop-sim-2-10-190435.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-sim-2-10-190435.png)
-- [everlaunch-desktop-sim-2-11-190513.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-sim-2-11-190513.png)
-- [everlaunch-desktop-sim-2-1-183406.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-sim-2-1-183406.png)
-- [everlaunch-desktop-sim-2-1-204400.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-sim-2-1-204400.png)
-- [everlaunch-desktop-sim-2-2-184021.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-sim-2-2-184021.png)
-- [everlaunch-desktop-sim-2-3-184223.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-sim-2-3-184223.png)
-- [everlaunch-desktop-sim-2-4-184303.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-sim-2-4-184303.png)
-- [everlaunch-desktop-sim-2-5-184436.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-sim-2-5-184436.png)
-- [everlaunch-desktop-sim-2-6-184546.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-sim-2-6-184546.png)
-- [everlaunch-desktop-sim-2-7-184907.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-sim-2-7-184907.png)
-- [everlaunch-desktop-sim-2-8-184924.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-sim-2-8-184924.png)
-- [everlaunch-desktop-sim-2-9-184929.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-sim-2-9-184929.png)
-- [everlaunch-desktop-sim-2-full-2-205037.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-desktop-sim-2-full-2-205037.png)
-- [everlaunch-samsung-s24-ultra-1-164839.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-samsung-s24-ultra-1-164839.png)
-- [everlaunch-samsung-s24-ultra-2-164846.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-samsung-s24-ultra-2-164846.png)
-- [everlaunch-samsung-s24-ultra-3-165000.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-samsung-s24-ultra-3-165000.png)
-- [everlaunch-samsung-s24-ultra-5-165132.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-samsung-s24-ultra-5-165132.png)
-- [everlaunch-samsung-s24-ultra-6-165138.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-samsung-s24-ultra-6-165138.png)
-- [everlaunch-samsung-s24-ultra-full-4-165105.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-08/everlaunch-samsung-s24-ultra-full-4-165105.png)
+- [everlaunch-desktop-sim-2-1-153959.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-10/everlaunch-desktop-sim-2-1-153959.png)
+- [everlaunch-desktop-sim-2-3-154134.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-10/everlaunch-desktop-sim-2-3-154134.png)
+- [everlaunch-desktop-sim-2-full-2-154116.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-10/everlaunch-desktop-sim-2-full-2-154116.png)
 
 ## Earlier days
 
+- 2026-09-10
+- 2026-09-09
 - 2026-09-08
 - 2026-09-07
 - 2026-09-06
@@ -60,6 +26,4 @@ Every link below is a direct file. Fetch one to read it; no login, no folder lis
 - 2026-08-30
 - 2026-08-29
 - 2026-08-28
-- 2026-08-27
-- 2026-08-26
 
