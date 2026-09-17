@@ -1,6 +1,6 @@
 ﻿# Latest screenshots
 
-Rebuilt automatically whenever new screenshots are filed. Newest day: **2026-09-17** - 6 image(s).
+Rebuilt automatically whenever new screenshots are filed. Newest day: **2026-09-17** - 9 image(s).
 
 Every link below is a direct file. Fetch one to read it; no login, no folder listing needed.
 
@@ -12,6 +12,9 @@ Every link below is a direct file. Fetch one to read it; no login, no folder lis
 - [everlaunch-iphone-15-pro-max-sim-2-full-2-124220.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-17/everlaunch-iphone-15-pro-max-sim-2-full-2-124220.png)
 - [everlaunch-iphone-15-pro-max-sim-2-full-3-124240.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-17/everlaunch-iphone-15-pro-max-sim-2-full-3-124240.png)
 - [everlaunch-iphone-15-pro-max-sim-2-full-6-125057.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-17/everlaunch-iphone-15-pro-max-sim-2-full-6-125057.png)
+- [everlaunch-iphone-15-sim-2-full-1-125256.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-17/everlaunch-iphone-15-sim-2-full-1-125256.png)
+- [everlaunch-pixel-8-sim-2-8-125212.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-17/everlaunch-pixel-8-sim-2-8-125212.png)
+- [everlaunch-pixel-8-sim-2-full-7-125157.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-09-17/everlaunch-pixel-8-sim-2-full-7-125157.png)
 
 ## Earlier days
 
