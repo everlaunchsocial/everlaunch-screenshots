@@ -1,12 +1,13 @@
 ﻿# Latest screenshots
 
-Rebuilt automatically whenever new screenshots are filed. Newest day: **2026-10-12** - 1 image(s).
+Rebuilt automatically whenever new screenshots are filed. Newest day: **2026-10-12** - 2 image(s).
 
 Every link below is a direct file. Fetch one to read it; no login, no folder listing needed.
 
 ## Images
 
 - [everlaunch-desktop-sim-2-1-094735.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-10-12/everlaunch-desktop-sim-2-1-094735.png)
+- [everlaunch-desktop-sim-2-2-094930.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-10-12/everlaunch-desktop-sim-2-2-094930.png)
 
 ## Earlier days
 
