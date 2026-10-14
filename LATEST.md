@@ -1,6 +1,6 @@
 ﻿# Latest screenshots
 
-Rebuilt automatically whenever new screenshots are filed. Newest day: **2026-10-14** - 29 image(s).
+Rebuilt automatically whenever new screenshots are filed. Newest day: **2026-10-14** - 30 image(s).
 
 Every link below is a direct file. Fetch one to read it; no login, no folder listing needed.
 
@@ -18,6 +18,7 @@ Every link below is a direct file. Fetch one to read it; no login, no folder lis
 - [everlaunch-desktop-sim-2-6-120049.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-10-14/everlaunch-desktop-sim-2-6-120049.png)
 - [everlaunch-desktop-sim-2-full-10-131157.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-10-14/everlaunch-desktop-sim-2-full-10-131157.png)
 - [everlaunch-desktop-sim-2-full-11-131317.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-10-14/everlaunch-desktop-sim-2-full-11-131317.png)
+- [everlaunch-desktop-sim-2-full-1-183402.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-10-14/everlaunch-desktop-sim-2-full-1-183402.png)
 - [everlaunch-desktop-sim-2-full-12-131420.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-10-14/everlaunch-desktop-sim-2-full-12-131420.png)
 - [everlaunch-desktop-sim-2-full-13-131727.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-10-14/everlaunch-desktop-sim-2-full-13-131727.png)
 - [everlaunch-desktop-sim-2-full-14-131758.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-10-14/everlaunch-desktop-sim-2-full-14-131758.png)
