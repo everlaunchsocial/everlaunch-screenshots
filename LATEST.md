@@ -1,11 +1,17 @@
 ﻿# Latest screenshots
 
-Rebuilt automatically whenever new screenshots are filed. Newest day: **2026-11-17** - 6 image(s).
+Rebuilt automatically whenever new screenshots are filed. Newest day: **2026-11-17** - 12 image(s).
 
 Every link below is a direct file. Fetch one to read it; no login, no folder listing needed.
 
 ## Images
 
+- [dup-132403-everlaunch-owner-1440.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-11-17/dup-132403-everlaunch-owner-1440.png)
+- [dup-132403-everlaunch-owner-390.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-11-17/dup-132403-everlaunch-owner-390.png)
+- [dup-132403-everlaunch-owner-registration.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-11-17/dup-132403-everlaunch-owner-registration.png)
+- [dup-132403-everlaunch-rep-1440.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-11-17/dup-132403-everlaunch-rep-1440.png)
+- [dup-132403-everlaunch-rep-390.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-11-17/dup-132403-everlaunch-rep-390.png)
+- [dup-132403-everlaunch-rep-registration.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-11-17/dup-132403-everlaunch-rep-registration.png)
 - [everlaunch-owner-1440.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-11-17/everlaunch-owner-1440.png)
 - [everlaunch-owner-390.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-11-17/everlaunch-owner-390.png)
 - [everlaunch-owner-registration.png](https://raw.githubusercontent.com/everlaunchsocial/everlaunch-screenshots/main/2026-11-17/everlaunch-owner-registration.png)
